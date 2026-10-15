@@ -1,0 +1,8 @@
+pandas
+numpy
+xlsxwriter
+tqdm
+openpyxl
+requests
+beautifulsoup4
+dnspython

@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+
+# Input data (Companies House Free Company Data Product, ~2-3 GB)
+*.csv
+*.zip
+*.xlsx
+*.xls
+*.xlsm
+
+# Generated output
+output/
+enriched/
+
+# Logs, progress and temporary files
+*.log
+*.jsonl
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
